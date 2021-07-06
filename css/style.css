@@ -143,12 +143,36 @@ span{
 
          .response{margin: 50px auto;}
          
-         footer {height: 200px;
-         text-align: center;
-         padding: 50px;
-         background-color: rgb(82, 79, 79);
+
+     .branch{
+        color: goldenrod;
+        padding: 20px;
+        background-color:rgb(37, 37, 37);
      }
-     .color{
-         color: snow;
+
+     .branch .font-color{
+         color: rgb(236, 158, 55);
      }
+      
+     .branch .box{
+         display: inline-block;
+          width: 20%;
+        height: 150px;
+        background-color:blanchedalmond;
+        margin: 30px auto;
+        padding: 25px;
+        border-radius: 20px;
+        box-shadow: 10px 10px 20px grey;
+        text-align: center;
+
+     }
+     footer {height: 200px;
+        text-align: center;
+        padding: 50px;
+        background-color: rgb(82, 79, 79);}
+
+        .color{
+            color: rgb(231, 225, 225);
+       
+
 
